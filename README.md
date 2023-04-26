@@ -5,9 +5,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=devkarim10" alt="devkarim10" /></a> </p>
 
-- 🔭 I’m currently working on **Flutter App**
 
-- 🌱 I’m currently learning **Microservice**
+- 🌱 I’m currently learning **Golang**
 
 - 💬 Ask me about **Java - Spring Boot - Angular**
 
